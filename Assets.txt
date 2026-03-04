@@ -1,0 +1,18 @@
+--- IDENTIDAD VISUAL: ANTIOQUIA CERTIFICA ---
+
+1. COLORES DE MARCA (HEX):
+   - Primario: #2E7D32 (Verde Montaña - Representa el agro de Rionegro)
+   - Secundario: #FFD700 (Dorado - Representa el oro de Caucasia)
+   - Fondo: #F5F5F5 (Gris claro para limpieza visual)
+
+2. ICONOGRAFÍA REQUERIDA:
+   - logo_app.png: Escudo estilizado de Antioquia con un circuito digital.
+   - icon_flower.png: Icono para lotes de flores.
+   - icon_gold.png: Icono para lotes de minería legal.
+
+3. FUENTES (TIPOGRAFÍA):
+   - Principal: Roboto (Para máxima compatibilidad con Android).
+   - Títulos: Montserrat (Para dar un aspecto moderno y fuerte).
+
+4. SLOGAN OFICIAL:
+   "Trazabilidad inmutable para el orgullo de nuestra tierra."
