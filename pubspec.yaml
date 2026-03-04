@@ -1,0 +1,29 @@
+name: antioquia_certifica
+description: Trazabilidad inmutable para productos de Antioquia.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # Herramientas para hablar con el contrato .sol
+  web3dart: ^2.3.3
+  http: ^0.13.4
+
+  # Herramientas para la interfaz y cámara
+  cupertino_icons: ^1.0.2
+  qr_code_scanner: ^0.5.2
+  geolocator: ^8.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  # Aquí vincularemos los iconos que definiste en assets.txt
+  assets:
+    - assets/logo_app.png
